@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\wjd47\\Code\\PROG2500\\Jeremy\u0027sAssignments\\Assignment10\\",
+  "WorkspaceRootPath": "C:\\Users\\wjd47\\Code\\CSharp Repos\\CSharpAssignment10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{190EC0AB-AA07-4D86-BB9D-02CB3EA78540}|Assignment10\\Assignment10.csproj|c:\\users\\wjd47\\code\\prog2500\\jeremy\u0027sassignments\\assignment10\\assignment10\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{190EC0AB-AA07-4D86-BB9D-02CB3EA78540}|Assignment10\\Assignment10.csproj|c:\\users\\wjd47\\code\\csharp repos\\csharpassignment10\\assignment10\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{190EC0AB-AA07-4D86-BB9D-02CB3EA78540}|Assignment10\\Assignment10.csproj|solutionrelative:assignment10\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{190EC0AB-AA07-4D86-BB9D-02CB3EA78540}|Assignment10\\Assignment10.csproj|C:\\Users\\wjd47\\Code\\PROG2500\\Jeremy\u0027sAssignments\\Assignment10\\assignment10\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{190EC0AB-AA07-4D86-BB9D-02CB3EA78540}|Assignment10\\Assignment10.csproj|C:\\Users\\wjd47\\Code\\CSharp Repos\\CSharpAssignment10\\assignment10\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{190EC0AB-AA07-4D86-BB9D-02CB3EA78540}|Assignment10\\Assignment10.csproj|solutionrelative:assignment10\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{190EC0AB-AA07-4D86-BB9D-02CB3EA78540}|Assignment10\\Assignment10.csproj|C:\\Users\\wjd47\\Code\\PROG2500\\Jeremy\u0027sAssignments\\Assignment10\\assignment10\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{190EC0AB-AA07-4D86-BB9D-02CB3EA78540}|Assignment10\\Assignment10.csproj|C:\\Users\\wjd47\\Code\\CSharp Repos\\CSharpAssignment10\\assignment10\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{190EC0AB-AA07-4D86-BB9D-02CB3EA78540}|Assignment10\\Assignment10.csproj|solutionrelative:assignment10\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -44,9 +44,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\wjd47\\Code\\PROG2500\\Jeremy\u0027sAssignments\\Assignment10\\Assignment10\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\wjd47\\Code\\CSharp Repos\\CSharpAssignment10\\Assignment10\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Assignment10\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\wjd47\\Code\\PROG2500\\Jeremy\u0027sAssignments\\Assignment10\\Assignment10\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\wjd47\\Code\\CSharp Repos\\CSharpAssignment10\\Assignment10\\MainWindow.xaml",
               "RelativeToolTip": "Assignment10\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-03T16:17:12.44Z"
@@ -55,9 +55,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\wjd47\\Code\\PROG2500\\Jeremy\u0027sAssignments\\Assignment10\\Assignment10\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wjd47\\Code\\CSharp Repos\\CSharpAssignment10\\Assignment10\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Assignment10\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\wjd47\\Code\\PROG2500\\Jeremy\u0027sAssignments\\Assignment10\\Assignment10\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\wjd47\\Code\\CSharp Repos\\CSharpAssignment10\\Assignment10\\MainWindow.xaml.cs",
               "RelativeToolTip": "Assignment10\\MainWindow.xaml.cs",
               "ViewState": "AgIAAGQAAAAAAAAAAAAowB8AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -68,14 +68,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "DBManager.cs",
-              "DocumentMoniker": "C:\\Users\\wjd47\\Code\\PROG2500\\Jeremy\u0027sAssignments\\Assignment10\\Assignment10\\DBManager.cs",
+              "DocumentMoniker": "C:\\Users\\wjd47\\Code\\CSharp Repos\\CSharpAssignment10\\Assignment10\\DBManager.cs",
               "RelativeDocumentMoniker": "Assignment10\\DBManager.cs",
-              "ToolTip": "C:\\Users\\wjd47\\Code\\PROG2500\\Jeremy\u0027sAssignments\\Assignment10\\Assignment10\\DBManager.cs",
+              "ToolTip": "C:\\Users\\wjd47\\Code\\CSharp Repos\\CSharpAssignment10\\Assignment10\\DBManager.cs",
               "RelativeToolTip": "Assignment10\\DBManager.cs",
               "ViewState": "AgIAAFEAAAAAAAAAAAAwwHAAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T16:15:07.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T16:15:07.325Z"
             }
           ]
         }
